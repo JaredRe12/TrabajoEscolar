@@ -1,0 +1,16 @@
+body{font-family: arial;}
+.menu{list-style: none;
+padding: 0;
+background: #6B877F;
+width: 100%;
+margin: initial;}
+.menu li a{text-decoration: none;
+color: white;
+padding: 20px;
+display: block;}
+.menu li{display: inline-block;
+text-align: center;}
+.menu li a:hover{background: #41EAB9 ;}
+.imagen{list-style: none;
+padding: 0;}
+.imagen li{display: inline-block;}

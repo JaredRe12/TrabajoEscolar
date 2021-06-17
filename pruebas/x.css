@@ -1,0 +1,16 @@
+body{
+background: #CDE6C9;}
+.no{list-style: none;
+	background: #49AD3B; 
+	width: 45%;
+	height: 467px; 
+padding: 0;
+color: white;}
+.nop{list-style: none;
+	background: #49AD3B; 
+	width: 45%; 
+padding: 0;}
+.nop li{
+padding: 7px;}
+
+
